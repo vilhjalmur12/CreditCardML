@@ -1,0 +1,20 @@
+{
+	"values": [
+			{
+				"step": 4,
+				"age": 1,
+				"gender": 2,
+				"merchant": 9,
+				"category": 0,
+				"amount": 23.95
+			},
+            {
+				"step": 15,
+				"age": 3,
+				"gender": 3,
+				"merchant": 20,
+				"category": 13,
+				"amount": 4000.95
+			}
+			]
+}
