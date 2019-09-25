@@ -1,5 +1,5 @@
-#Machine learning credit card fraud detection
-##Overview
+# Machine learning credit card fraud detection
+## Overview
 This is an API implementation of a supervised machine learning program to detect frauds on credit card
 usage. The dataset is synthetic and only made for research purposes. 
 
@@ -9,7 +9,7 @@ support vector machine. The reason for that is that I have not had the time to t
 for other algorithms such as random forest and neural network but it is a future project. The SVM still
 produces great result from the dataset.
 
-##Usage
+## Usage
 Assuming all packages have been installed including python3 and flask. Also the best 
 tool to send requests would be postman.
 
